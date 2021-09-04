@@ -6,7 +6,8 @@ Ensemble d'outils et de notes pour installer diverses application sur Chromebook
 ## Etape 2: Pré-configuration pour l'installation de VSCode
 
 * Mettre à jour le système de paquets
-> `sudo apt-get update
+> `sudo apt-get update`
 
 * Installer quelques dépendances
-> `sudo apt-get install -y gnome-keyring
+> `sudo apt-get install -y gnome-keyring`
+
