@@ -15,3 +15,7 @@ Ensemble d'outils et de notes pour installer diverses application sur Chromebook
 > `dpkg print-architecture`
 
 * Aller sur https://code.visualstudio.com/download pour récupérer le paquet deb (double cliquer sur le .deb, Crostini l'installera tout seul).
+
+## Etape 3: Prochaine étape: dockerisation
+
+http://joe.blog.freemansoft.com/2020/03/docker-on-chromebook-on-crostini.html
