@@ -11,3 +11,7 @@ Ensemble d'outils et de notes pour installer diverses application sur Chromebook
 * Installer quelques dépendances
 > `sudo apt-get install -y gnome-keyring`
 
+* Pour installer VSCode, il est nécessaire de connaître l'architecture de sa machine
+> `dpkg print-architecture`
+
+* Aller sur https://code.visualstudio.com/download pour récupérer le paquet deb (double cliquer sur le .deb, Crostini l'installera tout seul).
